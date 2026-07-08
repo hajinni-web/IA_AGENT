@@ -35,18 +35,18 @@ Evaluation_finale/
 ---
 
 # Prérequis
-Python 3.11 ou supérieur
-Ollama
-Modèle Llama 3.2
-langchain
-langchain-community
-langchain-core
-langchain-text-splitters
-langchain-ollama
-langgraph
-sentence-transformers
-tavily-python
-pypdf
+-Python 3.11 ou supérieur
+-Ollama
+-Modèle Llama 3.2
+-langchain
+-langchain-community
+-langchain-core
+-langchain-text-splitters
+-langchain-ollama
+-langgraph
+-sentence-transformers
+-tavily-python
+-pypdf
 
 # Lancer l'application
 
